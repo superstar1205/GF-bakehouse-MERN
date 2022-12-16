@@ -1,6 +1,4 @@
-# Daisy's Cakes
-
-Full Stack MERN website for local small business "Daisy's Cakes"!
+# Cake Store of my girl friends.
 
 ## Description
 
