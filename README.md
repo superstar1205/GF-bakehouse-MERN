@@ -1,4 +1,4 @@
-# Cake Store of my girl friends.
+# My girlfriends's bakehouse
 
 ## Description
 
